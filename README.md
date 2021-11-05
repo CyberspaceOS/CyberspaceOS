@@ -2,13 +2,18 @@
 
 <p align="center">A Full online operational system!!</p>
 
-<img src=""></img>
+<a href="https://github.com/CyberspaceOS/CyberspaceOS.github.io">
+  <img src="./wallpaper.png"></img>
+</a>
+
+CyberspaceOS is a operational system totally online, where you can normally use notepad, calculator or even real pc programs like vscode and others!!
 
 ## See Project Developement:
 
-For See The Current Developement, Access The Project Planning On:
+For See The Current Developement, Access The Project Planning Or The Devlog On:
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberspaceOS/CyberspaceOS.github.io/projects)
+[![Devlog](https://img.shields.io/badge/Devlog-999999?style=for-the-badge&logo=Files&logoColor=white)](.)
 
 ## Made With ❤️ And:
 [![ZORIN](https://img.shields.io/badge/Zorin_OS_15.3_lite-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
