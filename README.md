@@ -2,9 +2,7 @@
 
 <p align="center">A Full online operational system!!</p>
 
-<a href="https://github.com/CyberspaceOS/CyberspaceOS.github.io">
-  <img src="./wallpaper.png"></img>
-</a>
+[![Banner](/wallpaper.png)](https://github.com/CyberspaceOS/CyberspaceOS.github.io)
 
 CyberspaceOS is a operational system totally online, where you can normally use notepad, calculator or even real pc programs like vscode and others!!
 
