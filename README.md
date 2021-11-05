@@ -6,7 +6,18 @@
 
 CyberspaceOS is a operational system totally online, where you can normally use notepad, calculator or even real pc programs like vscode and others!!
 
-## See Project Developement:
+<h2 align="center">See by yourself:</h2>
+
+<p align="center">
+  <a href="./pages/login.html">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Became a Beta Tester-4458BE?style=for-the-badge&logo=google%20play&logoColor=white"
+    />
+  </a>
+</p>
+
+## Project Developement:
 
 For See The Current Developement, Access The Project Planning Or The Devlog On:
 
