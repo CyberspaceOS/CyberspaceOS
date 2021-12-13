@@ -9,7 +9,7 @@ CyberspaceOS is a operational system totally online, where you can normally use 
 <h2 align="center">Try by yourself:</h2>
 
 <p align="center">
-  <a href="https://cyberspaceos.luanderfarias.repl.co">
+  <a href="https://cyberspaceos.herokuapp.com/desktop">
     <img
       align="center"
       src="https://img.shields.io/badge/Test-4458BE?style=for-the-badge&logo=google%20play&logoColor=white"
