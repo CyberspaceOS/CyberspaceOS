@@ -1,39 +1,38 @@
 <h1 align="center">CyberspaceOS</h1>
 
-<p align="center">A Full online operational system!!</p>
-
-[![Banner](/wallpaper.png)](https://github.com/CyberspaceOS/CyberspaceOS.github.io)
-
-CyberspaceOS is a operational system totally online, where you can normally use notepad, calculator or even real pc programs like vscode and others!!
-
-<h2 align="center">Try by yourself:</h2>
+<p align="center">The future OS is online</p>
 
 <p align="center">
-  <a href="https://cyberspaceos.herokuapp.com/desktop">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Test-4458BE?style=for-the-badge&logo=google%20play&logoColor=white"
-    />
-  </a>
+  <img src="https://img.shields.io/badge/License-GPL_3.0-green.svg"/>
+  <img src="https://img.shields.io/badge/Status-Under_developement-green.svg"/>
+  <img src="https://img.shields.io/badge/Users-0-green.svg"/>
 </p>
 
-## Project Developement:
+<img align="center" src="screenshot.png" />
 
-For See The Current Developement, Access The Project Planning Or The Devlog On:
+## :hear_no_evil: What is `Cyberspace` ?
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberspaceOS/CyberspaceOS.github.io/projects)
-[![Devlog](https://img.shields.io/badge/Devlog-999999?style=for-the-badge&logo=Files&logoColor=white)](.)
+[Cyberspace](https://cyberspaceos.herokuapp.com/desktop) is a WebDesktop website where you can have your own unique virtual desktop just by doing login, But the best part is that you can use our <a href="https://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a> System To run 3D Modeling softwares, Video editing programs or even Games!! Everything without having a huge and powerfull computer...
+
+## :bulb: Want a feature or idea to be added ?
+
+Open an issue here at github giving details of the request. if the feature seems appropriate and legal we will implement.
 
 ## Made With ❤️ And:
-[![ZORIN](https://img.shields.io/badge/Zorin_OS_15.3_lite-0CC1F3?style=for-the-badge&logo=Zorin&logoColor=white)](https://zorin.com/)
+[![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/)
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 
-## 🔖 License
-[![LICENSE](https://img.shields.io/badge/Custom_GPL_3.0-E58080?style=for-the-badge&logo=bookstack&logoColor=white)](/LICENSE)
+## 👨‍💻 Contributing
+
+Don't hesitate to contribute code, design, feature requests or bug reports to this project. If you are working on a new feature, please consider creating an issue about it before submitting a Pull Request.
+It is highly recommended to read our [contributing guidelines](CONTRIBUTING.md) :page_with_curl: before contributing anything.
+
+## 📜 License
+
+#### GNU GPLv3
 
 ## 💰 Donate
 [![Ko-fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/luanderfarias)
