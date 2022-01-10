@@ -14,7 +14,7 @@
 
 ## :hear_no_evil: What is `Cyberspace` ?
 
-#### [Cyberspace](https://cyberspaceos.herokuapp.com) is a WebDesktop website where you can have your own unique virtual desktop just by doing login, But the best part is that you can use our <a href="https://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a> System To run 3D Modeling softwares, Video editing programs or even Games!! Everything without having a huge and powerfull computer...
+[Cyberspace](https://cyberspaceos.herokuapp.com) is a WebDesktop website where you can have your own unique virtual desktop just by doing login, But the best part is that you can use our <a href="https://en.wikipedia.org/wiki/Cloud_computing">Cloud Computing</a> System To run 3D Modeling softwares, Video editing programs or even Games!! Everything without having a huge and powerfull computer...
 
 ## :bulb: Want a feature or idea to be added ?
 
@@ -25,13 +25,13 @@ Open an issue here at github giving details of the request. if the feature seems
 Don't hesitate to contribute code, design, feature requests or bug reports to this project. If you are working on a new feature, please consider creating an issue about it before submitting a Pull Request.
 It is highly recommended to read our [contributing guidelines](CONTRIBUTING.md) :page_with_curl: before contributing anything.
 
+## 🎨 Our Logo
+
+Our logo uses <a href="https://www.behance.net/gallery/20085723/Fonarto-Typeface">Fonarto-Typeface</a>
+
 ## 📜 License
 
 #### GNU GPLv3
-
-## 🎨 Our Logo
-
-#### Our logo uses <a href="https://www.behance.net/gallery/20085723/Fonarto-Typeface">Fonarto-Typeface</a>
 
 ## Made With ❤️ And:
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/)
